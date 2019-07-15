@@ -31,7 +31,6 @@ footer {
   width: 100vw;
   height: 100vh;
   flex-direction: column;
-  flex-basis: content;
 }
 
 .item {
@@ -39,4 +38,8 @@ footer {
   width: 100px;
   margin: 5px;
   background-color: #FCF2EC;
+}
+
+.setWidth {
+  
 }
